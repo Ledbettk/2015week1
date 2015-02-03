@@ -21,15 +21,18 @@ For projects on Code Academy, or other external exercises, please just paste a l
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
-What is the role of CSS in a web page?  
-What is the role of Javascript in a web page?  
+What is the role of HTML in a web page? HTML is the structure of a website  
+
+What is the role of CSS in a web page?  CSS is the style and formatting of a website  
+
+What is the role of Javascript in a web page?  Javascript is a scripting language that displays outputs to create dynamic and interactive content on your website  
+
 
 ---
 
 ### Section 2: HTML and CSS 101
 
-#### Meta
+#### meta
 Why do we separate HTML and CSS?  
 
 #### HTML
@@ -38,18 +41,14 @@ What are elements?
 What are tags?  
 What are attributes?  
 What are forms?  
-What is a div?
+What is a div?  
 
-#### CSS
 What are selectors?  
 What are properties?  
 What are values?  
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-
-#### Android
-Put your html code in the `android.html` file in this folder.
 
 ---
 ### Section 3: Git and Github  
